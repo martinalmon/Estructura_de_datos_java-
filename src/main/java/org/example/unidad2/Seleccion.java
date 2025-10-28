@@ -8,7 +8,7 @@ import java.util.Arrays;
 
         public static void main(String[] args) {
             // Lista con las puntuaciones de importancia
-            int[] importancias = {75, 20, 55, 40, 90, 10, 60, 30};
+            int[] importancias = {75, 20, 54, 40, 90, 10, 60, 30};
             System.out.println("Características no ordenadas:");
             System.out.println(Arrays.toString(importancias));
             int n = importancias.length;
