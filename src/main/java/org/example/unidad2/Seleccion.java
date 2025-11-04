@@ -1,8 +1,8 @@
 package org.example.unidad2;
-
-public class Seleccion {package com.mx_curso.unidad2.ordanamiento;
-
 import java.util.Arrays;
+public class Seleccion {
+
+
 
     public class seleccion {
 
